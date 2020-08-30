@@ -10,7 +10,7 @@ This repository consists of TurEV-DB files, the files are as follows.
 # Citations
 In the event of using this resource, please do consider ciditing.
 
-## BibTex
+## BibTeX
     @inproceedings{canpolat2020turkish,
       title={Turkish Emotion Voice Database (TurEV-DB)},
       author={Canpolat, Salih Firat and Ormano{\u{g}}lu, Zuhal and Zeyrek, Deniz},
