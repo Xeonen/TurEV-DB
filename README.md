@@ -8,7 +8,7 @@ This repository consists of TurEV-DB files, the files are as follows.
 * Resized spectrograms
 
 # Citations
-In event of using this resource, please do consider ciditing.
+In the event of using this resource, please do consider ciditing.
 
 ## BibTex
 @inproceedings{canpolat2020turkish,
