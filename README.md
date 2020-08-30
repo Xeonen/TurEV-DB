@@ -14,7 +14,8 @@ In the event of using this resource, please do consider ciditing.
     @inproceedings{canpolat2020turkish,
       title={Turkish Emotion Voice Database (TurEV-DB)},
       author={Canpolat, Salih Firat and Ormano{\u{g}}lu, Zuhal and Zeyrek, Deniz},
-      booktitle={Proceedings of the 1st Joint Workshop on Spoken Language Technologies for Under-resourced languages (SLTU) and Collaboration and Computing for Under-Resourced Languages (CCURL)},
+      booktitle={Proceedings of the 1st Joint Workshop on Spoken Language Technologies for Under-resourced languages (SLTU)
+      and Collaboration and Computing for Under-Resourced Languages (CCURL)},
       pages={368--375},
       year={2020}
     }
